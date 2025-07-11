@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gabrielaribeirocampestre
 
-- I'm 19 years old, I'm from Campestre-MG, I'm studying Computer Science at the institution PUC Minas in Poços de Caldas and this is my profile on Github!
--No matter how tired you are, never stop studying! Studying is a privilege and only your personal effort will lead you to meet people and worlds 
-that the accommodated will never know!
+- I'm 23 years old, originally from Campestre-MG and currently living in Campinas-SP, Brazil. I hold a degree in Computer Science from PUC Minas and work as a Junior Systems Analyst at PUC-Campinas.
+
+I believe knowledge has the power to transform lives — studying is a privilege, and it's through continuous effort that we create opportunities and reach places that many give up on along the way.
 
 <!---
 gabrielaribeirocampestre/gabrielaribeirocampestre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
